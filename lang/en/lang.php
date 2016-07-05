@@ -101,7 +101,7 @@ return [
         'preview_title' => 'Preview User Group'
     ],
     'login' => [
-        'attribute_email' => 'Email',
+        'attribute_email' => '이메일',
         'attribute_username' => 'Username'
     ],
     'account' => [
